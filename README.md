@@ -1,6 +1,8 @@
 # design-portfolio
 
 
-![App Screenshot](abstract_1.png)
-![App Screenshot](abstract_2.png)
-![App Screenshot](abstract_3.png)
+![App Screenshot](robot.png)
+![App Screenshot](block_mp4.gif)
+![App Screenshot](architectural_visualiztion.png)
+![App Screenshot](website_design.png)
+
